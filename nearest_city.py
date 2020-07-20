@@ -70,5 +70,4 @@ q = ['c1','c2','c3','c6']
 
 find_nearest(c, x, y, q) 
 
-# This code is contributed by Soumen Ghosh 
 
